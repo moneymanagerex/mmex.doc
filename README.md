@@ -1,5 +1,19 @@
 ## Money Manager Ex User Guide
 
+Copyright © 2020 Money Manager Ex
+
+The Apache® Software Foundation (ASF) owns all Apache-related trademarks, service
+marks, and graphic logos on behalf of our Apache project communities, and the names
+of all Apache projects are trademarks of the ASF.
+
+All rights reserved. This documentation cannot be reproduced, distributed, or translated
+in full or in part by any means without our prior consent. For more information, address
+the creator of the application.
+We provide this document as is without warranty of any kind. Under no circumstances
+shall we be liable for any damages whatsoever, including and without limitation, damagesresulting
+from business loss, which may arise from the use or inability to use this
+documentation.
+
 ### Preface
 
 This user guide is about Money Manager Ex (Version 1.3.5), and is intended for users to leverage the features of the application.
