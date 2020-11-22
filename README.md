@@ -1,4 +1,4 @@
-#Money Manager Ex User Guide
+## Money Manager Ex User Guide
 
 ### Preface
 
