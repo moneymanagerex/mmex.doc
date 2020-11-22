@@ -32,7 +32,25 @@ _The Navigation panel displays all the interfaces as a hierarchical tree structu
 
 _The Top Menu bar contains various menu items for easy shortcut actions in the software._
 
-\&lt;table\&gt;
+| item | Icon  | Function  |
+|---|---|---|
+| New Database | ![img](https://openclipart.org/image/32px/svg_to_png/25697/Architetto----Database.png) | Create a new database |
+| Open Database | ![img](https://openclipart.org/image/32px/svg_to_png/32215/document-open.png) | Open an existing database |
+| New Account |  | Create a new acount |
+| Account List |  | Return to the Home interface and show the account list |
+| Show Organize Categories Dialog |  | Display Organize Categories Dialog |
+| Show Organize Payees Categories Dialog |  | Display Organize Payees Categories Dialog |
+| Show Organize Currency Dialog |  | Display the Organize Currency Dialog |
+| Transaction Report Filter |  | Filter transactions for review |
+| General Report Manager |  | Display the General Report Manager Dialog |
+| Options Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/22436/nicubunu-Tools.png) | Display the Options dialog |
+| New Transaction |  | Create a new transaction |
+| Register/View Release Notifications | ![img](https://openclipart.org/image/32px/svg_to_png/212153/rodentia-icons_accessories-news-reader.png) | Display release notificaitons in a brower |
+| Download Currency and Stock Rates |  | Download currency and stock rates from your defined sotck quote web page |
+| Toggle Fullscreen |  | Toggle fullscreen |
+| Print current view  | ![img](https://openclipart.org/image/32px/svg_to_png/32227/document-print.png)   | Print the current workspace view  |
+| Show about dialog  | ![img](https://openclipart.org/image/32px/svg_to_png/168141/star2.png) |  Display the About dialog |
+|  Show the Help Page |   | Display the Money Mager Ex User Manual  |
 
 # Settings and Preferences
 
