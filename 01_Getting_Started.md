@@ -36,11 +36,11 @@ _The Top Menu bar contains various menu items for easy shortcut actions in the s
 |---|---|---|
 | New Database | ![img](https://openclipart.org/image/32px/svg_to_png/25697/Architetto----Database.png) | Create a new database |
 | Open Database | ![img](https://openclipart.org/image/32px/svg_to_png/32215/document-open.png) | Open an existing database |
-| New Account |  | Create a new acount |
-| Account List |  | Return to the Home interface and show the account list |
-| Show Organize Categories Dialog |  | Display Organize Categories Dialog |
-| Show Organize Payees Categories Dialog |  | Display Organize Payees Categories Dialog |
-| Show Organize Currency Dialog |  | Display the Organize Currency Dialog |
+| New Account | ![img](https://openclipart.org/image/32px/svg_to_png/27766/ronoaldo-New-Document.png) | Create a new acount |
+| Account List | ![img](https://openclipart.org/image/24px/svg_to_png/30805/go-home.png) | Return to the Home interface and show the account list |
+| Show Organize Categories Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/20404/richardtallent-Blue-Tag.png) | Display Organize Categories Dialog |
+| Show Organize Payees Categories Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/119149/man-chris-kempson-01.png) | Display Organize Payees Categories Dialog |
+| Show Organize Currency Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/172798/dollar.png) | Display the Organize Currency Dialog |
 | Transaction Report Filter |  | Filter transactions for review |
 | General Report Manager |  | Display the General Report Manager Dialog |
 | Options Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/22436/nicubunu-Tools.png) | Display the Options dialog |
