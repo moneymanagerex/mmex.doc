@@ -1,4 +1,6 @@
-## Money Manager Ex User Guide
+[<img src="https://raw.githubusercontent.com/moneymanagerex/moneymanagerex/master/resources/mmexlogo.png" height="32"/>][website]
+Money Manager Ex User Guide
+================
 
 Copyright © 2020 Money Manager Ex
 
@@ -26,3 +28,4 @@ Users are permitted to copy and distribute verbatim copies of this license docum
 
 Everyone should have an easy and reliable tool for managing personal finance, so we developed one for you. With Money Manager Ex©, you can easily track where, when, and how your money flows and build healthier personal financial habits.
 
+[website]: http://moneymanagerex.org "MMEX website"
