@@ -1,2 +1,2 @@
 # mmex.doc
-Money Manager Documentation
+Money Manager Ex User Guide
