@@ -1,0 +1,152 @@
+Chapter 5: Database and Reports
+
+# About Database
+
+To start using MMEX, one option is to import data from another file to avoid duplicated efforts when creating a new database. It is easy to import data files into the software, and MMEX supports four import formats as of December 2020. These four supported import formats are:
+
+- QIF (Quicken Interchange Format)
+- CSV (Comma-Separated Values)
+- XML (Extensible Markup Language)
+- WebApp
+
+MMEX allows you to export your existing database into five export formats as of December 2020. These five supported export formats are:
+
+- QIF (Quicken Interchange Format)
+- CSV (Comma-Separated Values)
+- HTML (HyperText Markup Language
+- XML (Extensible Markup Language)
+- JSON (JavaScript Object Notation)
+
+## Importing a database
+
+_You can import data into a new database to quickly start using MMEX._
+
+**To import a database**
+
+1. Ensure that MMEX is closed.
+2. Launch MMEX and select **Create a New Database.**
+3. Name your new database and select **Save**.
+
+The **New Database Wizard** displays.
+
+1. Select **Cancel**.
+2. Select a base currency and select **Cancel** to close the **New Database Wizard**.
+3. Select **File** \&gt; **Import** and select the required format.
+
+The **Import** dialog displays.
+
+1. Select **Choose file** and select a file to import into MMEX.
+2. Configure the import options and select **OK.**
+
+## Exporting a database
+
+_You can export your MMEX database to make your data portable._
+
+**To export a database**
+
+1. With your database opened in MMEX, select **File** \&gt; **Export** and select the required format.
+
+The **Export** dialog displays.
+
+1. Select a location to export your database to and name your file.
+2. Configure the export options and select **Export.**
+
+# About Reports
+
+MMEX has an internal templating engine that allows you to create detailed and unique reports without external tools. With out internal templating engine, your reports can be completely customized and personalized with configurable SQL queries, LUA codes, and front-end scripts (HTML, CSS, and JavaScript).
+
+MMEX supports the creation of a variety of reports. Some reports require user input, and some are generated automatically by the software. These are the automatically generated report types:
+
+- Cash Flow
+- Categories
+- Forecast Report
+- Income vs Expenses
+- My Usage
+- Payees
+- Summary of Accounts
+- Budget Performance
+- Budget Category Summary
+- Stocks Report
+
+You can view the automatically generated reports in MMEX, or manually create a report from scratch and configure its appearance according to your preferences. This section teaches you how to do that.
+
+## Viewing automatically generated reports
+
+_You can view the automatically generated reports from the Navigation Pane. Refer to (About Reports) for a list of them._
+
+**To view an automatically generated report**
+
+Under **Reports** in the **Navigation Pane** , select a report for viewing.
+ The selected report displays in the **Report** view.
+
+Tip: Configure the settings with the toolbar across the top to filter accounts, periods, or show and hide charts.
+
+(image)
+
+## Creating a report manually
+
+_You can manually create a customized report with the General Reports Manager._
+
+**To create a report manually**
+
+1. From the **Top Menu** bar, select **General Report Manager.**
+
+The **General Reports Manager** dialog displays. The navigation pane within the **General Reports Manager** is blank by default.
+
+1. From the navigation pane within the **General Reports** Manager, right-click on **Reports** and select **New Empty Report.**
+
+(image)
+
+1. Enter a name for the new Report Group and select **OK.**
+2. Enter a name for the new report and select **OK**.
+
+A new report now displays in the navigation pane, and five new tabs display ( **Output** , **SQL** , **Lua** , **Template** , and **Description**.
+
+1. Navigate to the **SQL** tab, ensure that the script ends with a semicolon (&quot;;&quot;) and select **Test**.
+
+The **Create Template** button is now activated.
+
+1. Select **Run** to generate the report
+
+Your new report is now generated and can be accessed in the **Output** tab and in the **Report** view.
+
+## Importing a report
+
+_You can download an existing report created by users and developers [here on GitHub](https://github.com/moneymanagerex/general-reports/releases) and import it into MMEX._
+
+Warning: Be wary of malicious files from the internet. Always scan for viruses and ensure the files are clean before downloading them onto your computer.
+
+**To import a report**
+
+1. Optional: Download a report from [here on GitHub](https://github.com/moneymanagerex/general-reports/releases) onto your computer.
+2. From the **Top Menu** bar, select **General Report Manager.**
+3. Select **Import**.
+4. Locate and select a report as required and select **Open**.
+
+Your new report is now imported and can be accessed in the **Report** view.
+
+# About report outputs
+
+Many MMEX users create report templates and upload them onto our GitHub community to share with other users. If you want to contribute to the community, or just create an output for personal usage, you can export a report to a ZIP file.
+
+## Exporting a report
+
+_You can export a report into a ZIP file with the General Reports Manager dialog._
+
+**To export a report**
+
+1. From the **Top Menu** bar, select **General Report Manager.**
+2. From the navigation pane within the **General Report Manager** , select a report to export.
+3. Select **Export**.
+4. Select a location to store the output and select **Save**.
+
+## Printing a report
+
+You can print a report for review with MMEX.
+
+1. From the **Navigation Pane** , select a report.
+2. From the **Top Menu** bar, select **Print current view**.
+
+The **Print Review** window displays.
+
+1. Configure the printing options and select **Print Document**.
