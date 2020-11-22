@@ -2,9 +2,7 @@ Chapter 1: Getting Started
 
 # What is Money Manager Ex?
 
-Money Manager Ex (hereinafter referred to as _MMEX_) is a free and open source software
-
-designed for language learning. It serves as a simple and user-friendly tool for you to control and monitor your personal finances. It was developed to address your need for a tool to maintain good financial records and make informed decisions.
+Money Manager Ex (hereinafter referred to as _MMEX_) is a free and open source software designed for personal finance management. It serves as a simple and user-friendly tool for you to control and monitor your personal finances. It was developed to address your need for a tool to maintain good financial records and make informed decisions.
 
 MMEX allows you to track activities in multiple accounts and different currencies at the same time. Its purpose is to help you build better personal financial habits. It was created with the vision that you would use the software everyday to keep comprehensive records of your income, expenses, assets, and make informed decisions on investments and budget accordingly.
 
