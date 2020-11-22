@@ -42,12 +42,12 @@ _The Top Menu bar contains various menu items for easy shortcut actions in the s
 | Show Organize Payees Categories Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/119149/man-chris-kempson-01.png) | Display Organize Payees Categories Dialog |
 | Show Organize Currency Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/172798/dollar.png) | Display the Organize Currency Dialog |
 | Transaction Report Filter |  | Filter transactions for review |
-| General Report Manager |  | Display the General Report Manager Dialog |
+| General Report Manager | ![img](https://openclipart.org/image/24px/svg_to_png/32413/edit-find-replace.png) | Display the General Report Manager Dialog |
 | Options Dialog | ![img](https://openclipart.org/image/32px/svg_to_png/22436/nicubunu-Tools.png) | Display the Options dialog |
 | New Transaction |  | Create a new transaction |
 | Register/View Release Notifications | ![img](https://openclipart.org/image/32px/svg_to_png/212153/rodentia-icons_accessories-news-reader.png) | Display release notificaitons in a brower |
 | Download Currency and Stock Rates |  | Download currency and stock rates from your defined sotck quote web page |
-| Toggle Fullscreen |  | Toggle fullscreen |
+| Toggle Fullscreen | ![img](https://openclipart.org/image/32px/svg_to_png/33691/view-fullscreen.png) | Toggle fullscreen |
 | Print current view  | ![img](https://openclipart.org/image/32px/svg_to_png/32227/document-print.png)   | Print the current workspace view  |
 | Show about dialog  | ![img](https://openclipart.org/image/32px/svg_to_png/168141/star2.png) |  Display the About dialog |
 |  Show the Help Page |   | Display the Money Mager Ex User Manual  |
