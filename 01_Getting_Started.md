@@ -64,7 +64,7 @@ the same. Use the Options dialog (Tools \&gt; Options) to change settings. These
 - Network: This category contains configuration options for the MMEX WebApp.
 - Others : This category contains configuration options for the stock quote web page, New Transaction Dialog settings, database backup, and CSV settings.
 
-![](RackMultipart20201122-4-170d848_html_d7d96b5ac06910ee.png)
+![img](https://github.com/moneymanagerex/mmex.doc/blob/main/options_general.png)
 
 \&lt;h2\&gt;each category\&lt;/h2\&gt;
 
