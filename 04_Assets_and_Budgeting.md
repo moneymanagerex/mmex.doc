@@ -6,13 +6,13 @@ An asset is something of value that can be converted into cash. With MMEX, you c
 
 MMEX supports the creation of seven types of assets. These assets are:
 
-- property
-- automobile
-- household object
-- art
-- jewelry
-- cash
-- ther
+- Property
+- Automobile
+- Household Object
+- Art
+- Jewelery
+- Cash
+- Other
 
 You can track the value of your assets by specifying their current value and make changes to them in the future. There are two kinds of value changes: Appreciates and Depreciates. Appreciates refer to the increase in the value of an asset over time, and depreciates refer to the decrease in the value of an asset over time.
 
