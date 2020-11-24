@@ -33,7 +33,8 @@ Microsoft Windows 10 64-bit
        git clone --recursive https://github.com/moneymanagerex/moneymanagerex c:\Dev\
 6. [Download sources of curl], unpack them to `c:\libcurl` and build [libcurl]
    library with following commands:
-   mkdir c:\curl\build
+   
+       `mkdir c:\curl\build
        cd c:\curl\build
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DBUILD_CURL_EXE=OFF -DHTTP_ONLY=ON ^
@@ -42,7 +43,7 @@ Microsoft Windows 10 64-bit
        -DCURL_LIBRARY=c:\libcurl -DCURL_INCLUDE_DIR=c:\libcurl ..
        set "CL=/MP"
        cmake --build . --target install --config Release --clean-first ^
-         -- /maxcpucount /verbosity:minimal /nologo /p:PreferredToolArchitecture=x64
+         -- /maxcpucount /verbosity:minimal /nologo /p:PreferredToolArchitecture=x64`
          
     ### Visual Studio GUI with project file
     
