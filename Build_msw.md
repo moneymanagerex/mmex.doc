@@ -73,3 +73,23 @@ Microsoft Windows 10 64-bit
     https://curl.se/download/curl-7.71.1.zip
 [libcurl]:
     https://curl.haxx.se/libcurl/
+[Microsoft Visual Studio]:
+    https://www.visualstudio.com/downloads/
+[Git for Windows]:
+    https://git-scm.com/download/win
+[gettext pre-compiled binaries]:
+    https://mlocati.github.io/articles/gettext-iconv-windows.html
+[wxWidgets 3.x binaries]:
+    https://github.com/wxWidgets/wxWidgets/releases/
+[Developer Command Prompt]:
+    https://docs.microsoft.com/en-us/dotnet/framework/tools/developer-command-prompt-for-vs
+[MMEX official Git repository]:
+    https://github.com/moneymanagerex/moneymanagerex
+[CMake]:
+    https://cmake.org/
+[wxWidgets]:
+    https://wxwidgets.org/
+[NSIS]:
+    http://nsis.sourceforge.net/Download
+[CMake support in Visual Studio 2017]:
+    https://blogs.msdn.microsoft.com/vcblog/2016/10/05/cmake-support-in-visual-studio/
