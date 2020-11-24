@@ -70,6 +70,6 @@ Microsoft Windows 10 64-bit
    `PACKAGE` project.
    
 [Download sources of curl]:
-    //curl.haxx.se/latest.cgi?curl=zip
+    https://curl.se/download/curl-7.71.1.zip
 [libcurl]:
     https://curl.haxx.se/libcurl/
