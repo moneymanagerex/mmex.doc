@@ -34,7 +34,7 @@ Microsoft Windows 10 64-bit
 6. [Download sources of curl], unpack them to `c:\libcurl` and build [libcurl]
    library with following commands:
    
-       ```mkdir c:\curl\build
+       mkdir c:\curl\build
        cd c:\curl\build
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DBUILD_CURL_EXE=OFF -DHTTP_ONLY=ON ^
@@ -49,11 +49,11 @@ Microsoft Windows 10 64-bit
     
     1. Generate build environment using [CMake]
 
-       '''mkdir c:\dev\moneymanagerex\build
+       ```mkdir c:\dev\moneymanagerex\build
        cd c:\dev\moneymanagerex\build
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DCMAKE_PREFIX_PATH=c:\libcurl ^
-       -DCURL_LIBRARY=c:\libcurl -DCURL_INCLUDE_DIR=c:\libcurl ..'''
+       -DCURL_LIBRARY=c:\libcurl -DCURL_INCLUDE_DIR=c:\libcurl ..
        
      This produce `c:\Dev\moneymanagerex\build\MMEX.sln` file ready to be loaded into Visual Studio GUI.
    
