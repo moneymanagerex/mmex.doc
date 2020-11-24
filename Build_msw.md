@@ -26,7 +26,7 @@ Microsoft Windows 10 64-bit
  setx wxwin c:\wxWidgets\
  
 4. Start the following command from start menu:
-       %comspec% /k "%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvarsall.bat" amd64
+       ```%comspec% /k "%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvarsall.bat" amd64```
        
 5. Clone [MMEX official Git repository] with submodules using command-line:
 
@@ -34,8 +34,8 @@ Microsoft Windows 10 64-bit
 6. [Download sources of curl], unpack them to `c:\libcurl` and build [libcurl]
    library with following commands:
    
-       mkdir c:\curl\build
-       cd c:\curl\build
+       mkdir c:\libcurl\build
+       cd c:\libcurl\build
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DBUILD_CURL_EXE=OFF -DHTTP_ONLY=ON ^
        -DENABLE_MANUAL=OFF -DBUILD_TESTING=OFF -DCURL_STATICLIB=ON ^
