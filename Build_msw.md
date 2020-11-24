@@ -31,7 +31,7 @@ Microsoft Windows 10 64-bit
 5. Clone [MMEX official Git repository] with submodules using command-line:
 
        git clone --recursive https://github.com/moneymanagerex/moneymanagerex c:\Dev\
-6. [Download sources of curl], unpack them to `c:\libcurl` and build [libcurl]
+6. [Download sources of curl], ver. 7.71.1 unpack them to `c:\libcurl` and build [libcurl]
    library with following commands:
    
        mkdir c:\libcurl\build
@@ -39,8 +39,7 @@ Microsoft Windows 10 64-bit
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DBUILD_CURL_EXE=OFF -DHTTP_ONLY=ON ^
        -DENABLE_MANUAL=OFF -DBUILD_TESTING=OFF -DCURL_STATICLIB=ON ^
-       -DCMAKE_USE_SCHANNEL=ON -DCMAKE_INSTALL_PREFIX=c:\libcurl ^
-       -DCURL_LIBRARY=c:\libcurl -DCURL_INCLUDE_DIR=c:\libcurl ..
+       -DCMAKE_USE_WINSSL=ON -DCMAKE_INSTALL_PREFIX=c:\libcurl ..
        set "CL=/MP"
        cmake --build . --target install --config Release --clean-first ^
          -- /maxcpucount /verbosity:minimal /nologo /p:PreferredToolArchitecture=x64
@@ -69,3 +68,8 @@ Microsoft Windows 10 64-bit
 
 5. To create binary package (you need to have [NSIS] installed for this) build
    `PACKAGE` project.
+   
+[Download sources of curl]:
+    //curl.haxx.se/latest.cgi?curl=zip
+[libcurl]:
+    https://curl.haxx.se/libcurl/
