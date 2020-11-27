@@ -1,5 +1,10 @@
 [<img src="https://raw.githubusercontent.com/moneymanagerex/moneymanagerex/master/resources/mmexlogo.png" height="32"/>][website]
-### Money Manager Ex User Guide
+Money Manager Ex User Guide
+================
+
+#### Index of content
+
+1. [Getting started](https://github.com/moneymanagerex/mmex.doc/blob/main/01_Getting_Started.md)
 
 Copyright © 2020 Money Manager Ex
 
