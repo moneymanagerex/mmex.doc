@@ -4,7 +4,7 @@ Money Manager Ex User Guide
 
 #### Index of content
 
-1. [Getting started](https://github.com/moneymanagerex/mmex.doc/blob/main/01_Getting_Started.md)
+1. [Getting started](01_Getting_Started.md)
 
 Copyright © 2020 Money Manager Ex
 
