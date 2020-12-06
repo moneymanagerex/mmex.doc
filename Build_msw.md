@@ -50,6 +50,7 @@ Microsoft Windows 10 64-bit
 
        ```mkdir c:\dev\moneymanagerex\build
        cd c:\dev\moneymanagerex\build
+       (set DevEnvDir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\)
        set "PATH=%PATH%;%DevEnvDir%CommonExtensions\Microsoft\CMake\CMake\bin"
        cmake -G "Visual Studio 15 2017 Win64" -DCMAKE_PREFIX_PATH=c:\libcurl ^
        -DCURL_LIBRARY=c:\libcurl -DCURL_INCLUDE_DIR=c:\libcurl ..
